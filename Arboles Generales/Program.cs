@@ -1,4 +1,5 @@
-﻿ArbolGeneral arbol = new ArbolGeneral("A");
+﻿//Silva Fragoso Cristian Alan
+ArbolGeneral arbol = new ArbolGeneral("A");
 Nodo nodoB = arbol.Insertar(arbol.Raiz, "B");
 Nodo nodoC = arbol.Insertar(nodoB, "C");
 Nodo nodoD = arbol.Insertar(nodoB, "D");

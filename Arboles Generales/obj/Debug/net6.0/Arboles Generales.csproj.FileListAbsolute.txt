@@ -1,0 +1,15 @@
+/home/crissilvafr/Escritorio/Arboles/Arboles Generales/bin/Debug/net6.0/Arboles Generales
+/home/crissilvafr/Escritorio/Arboles/Arboles Generales/bin/Debug/net6.0/Arboles Generales.deps.json
+/home/crissilvafr/Escritorio/Arboles/Arboles Generales/bin/Debug/net6.0/Arboles Generales.runtimeconfig.json
+/home/crissilvafr/Escritorio/Arboles/Arboles Generales/bin/Debug/net6.0/Arboles Generales.dll
+/home/crissilvafr/Escritorio/Arboles/Arboles Generales/bin/Debug/net6.0/ref/Arboles Generales.dll
+/home/crissilvafr/Escritorio/Arboles/Arboles Generales/bin/Debug/net6.0/Arboles Generales.pdb
+/home/crissilvafr/Escritorio/Arboles/Arboles Generales/obj/Debug/net6.0/Arboles Generales.csproj.AssemblyReference.cache
+/home/crissilvafr/Escritorio/Arboles/Arboles Generales/obj/Debug/net6.0/Arboles Generales.GeneratedMSBuildEditorConfig.editorconfig
+/home/crissilvafr/Escritorio/Arboles/Arboles Generales/obj/Debug/net6.0/Arboles Generales.AssemblyInfoInputs.cache
+/home/crissilvafr/Escritorio/Arboles/Arboles Generales/obj/Debug/net6.0/Arboles Generales.AssemblyInfo.cs
+/home/crissilvafr/Escritorio/Arboles/Arboles Generales/obj/Debug/net6.0/Arboles Generales.csproj.CoreCompileInputs.cache
+/home/crissilvafr/Escritorio/Arboles/Arboles Generales/obj/Debug/net6.0/Arboles Generales.dll
+/home/crissilvafr/Escritorio/Arboles/Arboles Generales/obj/Debug/net6.0/ref/Arboles Generales.dll
+/home/crissilvafr/Escritorio/Arboles/Arboles Generales/obj/Debug/net6.0/Arboles Generales.pdb
+/home/crissilvafr/Escritorio/Arboles/Arboles Generales/obj/Debug/net6.0/Arboles Generales.genruntimeconfig.cache

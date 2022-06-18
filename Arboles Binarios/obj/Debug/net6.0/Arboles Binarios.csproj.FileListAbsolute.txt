@@ -1,0 +1,15 @@
+/home/crissilvafr/Escritorio/Arboles/Arboles Binarios/obj/Debug/net6.0/Arboles Binarios.csproj.AssemblyReference.cache
+/home/crissilvafr/Escritorio/Arboles/Arboles Binarios/obj/Debug/net6.0/Arboles Binarios.GeneratedMSBuildEditorConfig.editorconfig
+/home/crissilvafr/Escritorio/Arboles/Arboles Binarios/obj/Debug/net6.0/Arboles Binarios.AssemblyInfoInputs.cache
+/home/crissilvafr/Escritorio/Arboles/Arboles Binarios/obj/Debug/net6.0/Arboles Binarios.AssemblyInfo.cs
+/home/crissilvafr/Escritorio/Arboles/Arboles Binarios/obj/Debug/net6.0/Arboles Binarios.csproj.CoreCompileInputs.cache
+/home/crissilvafr/Escritorio/Arboles/Arboles Binarios/bin/Debug/net6.0/Arboles Binarios
+/home/crissilvafr/Escritorio/Arboles/Arboles Binarios/bin/Debug/net6.0/Arboles Binarios.deps.json
+/home/crissilvafr/Escritorio/Arboles/Arboles Binarios/bin/Debug/net6.0/Arboles Binarios.runtimeconfig.json
+/home/crissilvafr/Escritorio/Arboles/Arboles Binarios/bin/Debug/net6.0/Arboles Binarios.dll
+/home/crissilvafr/Escritorio/Arboles/Arboles Binarios/bin/Debug/net6.0/ref/Arboles Binarios.dll
+/home/crissilvafr/Escritorio/Arboles/Arboles Binarios/bin/Debug/net6.0/Arboles Binarios.pdb
+/home/crissilvafr/Escritorio/Arboles/Arboles Binarios/obj/Debug/net6.0/Arboles Binarios.dll
+/home/crissilvafr/Escritorio/Arboles/Arboles Binarios/obj/Debug/net6.0/ref/Arboles Binarios.dll
+/home/crissilvafr/Escritorio/Arboles/Arboles Binarios/obj/Debug/net6.0/Arboles Binarios.pdb
+/home/crissilvafr/Escritorio/Arboles/Arboles Binarios/obj/Debug/net6.0/Arboles Binarios.genruntimeconfig.cache
